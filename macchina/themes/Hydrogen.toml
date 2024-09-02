@@ -17,7 +17,6 @@ visible = true
 [box]
 border = "rounded"
 visible = true
-title = "─Jack-Frings"
 
 [box.inner_margin]
 x = 1
