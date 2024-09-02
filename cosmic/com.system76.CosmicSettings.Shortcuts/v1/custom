@@ -1,0 +1,222 @@
+{
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "Left",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "2",
+    ): MoveToWorkspace(2),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "8",
+    ): MoveToWorkspace(8),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "l",
+    ): Focus(Right),
+    (
+        modifiers: [
+            Super,
+        ],
+    ): System(Launcher),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "Up",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "9",
+    ): MoveToWorkspace(9),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "h",
+    ): Focus(Left),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "w",
+    ): System(WorkspaceOverview),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "3",
+    ): MoveToWorkspace(3),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "1",
+    ): MoveToWorkspace(1),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "5",
+    ): MoveToWorkspace(5),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "t",
+        description: Some("Terminal"),
+    ): Spawn("alacritty"),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "b",
+    ): System(WebBrowser),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "m",
+    ): Minimize,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "Left",
+    ): Focus(Left),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "h",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "k",
+    ): Focus(Up),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "s",
+        description: Some("Settings"),
+    ): Spawn("cosmic-settings"),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "4",
+    ): MoveToWorkspace(4),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "k",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "l",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "j",
+    ): Focus(Down),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "Down",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "Up",
+    ): Focus(Up),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "6",
+    ): MoveToWorkspace(6),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "q",
+    ): Close,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "a",
+    ): System(AppLibrary),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "f",
+    ): Maximize,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "j",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "7",
+    ): MoveToWorkspace(7),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "Right",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "Down",
+    ): Focus(Down),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "Right",
+    ): Focus(Right),
+}
