@@ -1,0 +1,9 @@
+(
+    rules: "",
+    model: "",
+    layout: "us",
+    variant: "",
+    options: Some(",caps:ctrl_modifier"),
+    repeat_delay: 400,
+    repeat_rate: 35,
+)

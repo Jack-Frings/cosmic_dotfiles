@@ -1,0 +1,453 @@
+{
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "r",
+    ): Resizing(Outwards),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "r",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "s",
+        description: Some("Settings"),
+    ): Spawn("cosmic-settings"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "7",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "1",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "8",
+    ): Workspace(8),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "l",
+    ): Focus(Right),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "j",
+    ): Move(Down),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "5",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "3",
+    ): MoveToWorkspace(3),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "Up",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "7",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "9",
+    ): MoveToWorkspace(9),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "2",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "7",
+    ): Workspace(7),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "4",
+    ): Workspace(4),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "6",
+    ): MoveToWorkspace(6),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "q",
+    ): Close,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "j",
+    ): Focus(Down),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "4",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "6",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "b",
+    ): Disable,
+    (
+        modifiers: [
+            Shift,
+        ],
+        key: "7",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "d",
+        description: Some("Discord"),
+    ): Spawn("discord"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "F11",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "b",
+    ): System(WebBrowser),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "3",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "9",
+    ): Workspace(9),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "4",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "4",
+    ): MoveToWorkspace(4),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "2",
+    ): Workspace(2),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "5",
+    ): Workspace(5),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "q",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "6",
+    ): Workspace(6),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "Up",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "h",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "2",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "j",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "1",
+    ): MoveToWorkspace(1),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "1",
+    ): Workspace(1),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "r",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "k",
+    ): Move(Up),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "1",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "3",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "w",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "7",
+    ): MoveToWorkspace(7),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "Down",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "3",
+    ): Workspace(3),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "f",
+    ): Fullscreen,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "2",
+    ): MoveToWorkspace(2),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "9",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "g",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "5",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "h",
+    ): Focus(Left),
+    (
+        modifiers: [
+            Shift,
+        ],
+        key: "space",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "8",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "t",
+        description: Some("Terminal"),
+    ): Spawn("alacritty"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "l",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "8",
+    ): MoveToWorkspace(8),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "g",
+    ): ToggleWindowFloating,
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "h",
+    ): Move(Left),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "5",
+    ): MoveToWorkspace(5),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "r",
+    ): Resizing(Inwards),
+    (
+        modifiers: [
+            Alt,
+            Shift,
+        ],
+        key: "l",
+    ): Move(Right),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "8",
+    ): Disable,
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "w",
+    ): System(WorkspaceOverview),
+    (
+        modifiers: [
+            Alt,
+        ],
+        key: "k",
+    ): Focus(Up),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "9",
+    ): Disable,
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "6",
+    ): Disable,
+}

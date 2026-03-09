@@ -1,0 +1,41 @@
+[window]
+opacity = 0.9
+
+[font]
+size = 12.0
+
+[font.normal]
+family = "FiraCodeNerdFont"
+style = "Normal"
+
+[font.bold]
+family = "FiraCodeNerdFont"
+style = "Bold"
+
+# Color Scheme
+# Default colors
+[colors.primary]
+background = '#232a2d'
+foreground = '#dadada'
+
+# Normal colors
+[colors.normal]
+black   = '#232a2d'
+red     = '#e57474'
+green   = '#8ccf7e'
+yellow  = '#e5c76b'
+blue    = '#67b0e8'
+magenta = '#c47fd5'
+cyan    = '#6cbfbf'
+white   = '#b3b9b8'
+
+# Bright colors
+[colors.bright]
+black   = '#2d3437'
+red     = '#ef7e7e'
+green   = '#96d988'
+yellow  = '#f4d67a'
+blue    = '#71baf2'
+magenta = '#ce89df'
+cyan    = '#67cbe7'
+white   = '#bdc3c2'
